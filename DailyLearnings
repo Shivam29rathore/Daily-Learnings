@@ -11266,15 +11266,170 @@ https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 
 
 
-(11/03/2021)
+(12/03/2021)
 
 
 
-1) 
+1) JSON files:
+
+https://www.youtube.com/watch?v=iiADhChRriM
 
 
 
 
+
+
+(13/03/2021)
+
+
+1) Salesforce Administrator and app builder :
+
+https://www.youtube.com/watch?v=IPFNWURwFU8&list=PLWgzSrReOBh4P7kQyCJVH7mdmCWw0HXfi
+
+
+
+
+(15/03/2021)
+
+
+1) Salesforce org:
+
+https://astreaitservices-5c-dev-ed.my.salesforce.com/home/home.jsp
+
+
+
+
+(16/03/2021)
+
+
+1) CSV to Influx using Python:
+
+https://github.com/Shivam29rathore/csv-to-influxdb
+
+
+
+
+(17/03/2021)
+
+
+1) Using POST,GET , PATCH and DELETE methods for AJAX calls:
+
+
+https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28
+
+
+
+
+(18/03/2021)
+
+1) Apex Tutorial:
+
+https://www.tutorialspoint.com/apex/apex_methods.htm
+
+
+2) Adding CSV data points to the InfluxDb:
+
+https://www.influxdata.com/blog/how-to-write-points-from-csv-to-influxdb/
+
+
+
+
+
+(21/03/2021)
+
+
+1) Money from Blogging:
+
+https://www.youtube.com/watch?v=6sy8Si574AU
+
+
+
+
+
+(22/03/2021)
+
+
+1) Getting start with Telegraf:
+
+telegraf -sample-config -input-filter file -output-filter influxdb > file.conf
+
+
+
+2) Creating and Editing config files:
+
+https://docs.influxdata.com/telegraf/v1.10/administration/configuration/
+
+
+
+/home/shivam/Downloads/Work Space/Hamoye/GreenData/PUBLIC_DVD_DISPATCHPRICE_201612010000.CSV
+
+
+/home/shivam/Downloads/Interview Resources/Merged_dataset.csv
+
+
+telegraf -sample-config -input-filter file -output-filter influxdb > telegraf.conf
+
+
+
+
+
+(23/03/2021)
+
+
+1) Using the new config file:
+
+telegraf --config /home/shivam/file.conf
+
+
+
+(24/03/2021)
+
+
+1) Roadmap to Data Scientist:
+
+https://www.youtube.com/watch?v=XnNzck5-HdQ
+
+
+2) Commands:
+
+
+
+3) Timeseries Database:
+
+https://www.youtube.com/watch?v=HB9bG3Qcvq8
+
+
+4) Getting started with InfluxDb:
+
+https://www.youtube.com/watch?v=Vq4cDIdz_M8
+
+
+
+5) Django from Scratch :
+
+https://www.youtube.com/watch?v=NzSsPf-_Pfc&list=PLnFWJCugpwfzb_-q30_aCj0ljclKf-o8W
+
+
+6) InfluxDb Cloud Overview:
+
+https://www.youtube.com/watch?v=zr5V3IhOuUA
+
+
+
+
+(25/03/2021)
+
+
+1) Writing data to InfluxDB Documentation:
+
+https://docs.influxdata.com/influxdb/v2.0/write-data/
+
+
+2) Method to increase Productivity:
+
+https://www.youtube.com/watch?v=cshVfS2LXm0
+
+3) 
 
 
 
