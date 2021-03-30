@@ -11429,9 +11429,95 @@ https://docs.influxdata.com/influxdb/v2.0/write-data/
 
 https://www.youtube.com/watch?v=cshVfS2LXm0
 
-3) 
 
 
+
+(26/03/2021)
+
+
+1) Files Input plugin:
+
+https://github.com/influxdata/telegraf/tree/master/plugins/inputs/file
+
+
+
+
+(27/03/2021)
+
+
+1) How to wake up early:
+
+https://www.youtube.com/watch?v=nVqguQH45gw
+
+
+2) Data Structures and Algorithms in Python(20):
+
+https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+
+
+
+
+(28/03/2021)
+
+
+1) Study motivation :
+
+https://www.youtube.com/watch?v=edtJCtp-tLo
+
+
+2) File differences:
+
+influxModel.addField("negative",
+					(double) Math.round(sentimentResult.getSentimentClass().getNegative() * 100d));
+			influxModel.addField("positive",
+					(double) Math.round(sentimentResult.getSentimentClass().getPositive() * 100d));
+			influxModel.addField("Neutral",
+					(double) Math.round(sentimentResult.getSentimentClass().getNeutral() * 100d));
+
+			InfluxDbApi.addToInflux(influxModel);
+
+
+
+
+(29/03/2021)
+
+
+1) Uninstalling jupyter-lab in Ubuntu:
+
+https://stackoverflow.com/questions/33052232/how-to-uninstall-jupyter
+
+
+2) How to start CP:
+
+https://www.youtube.com/watch?v=qOKCWgTChlM
+
+
+
+3) Installing Jupyter-lab:
+
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+
+
+4) Creating a Deep Fake video in 5 min :
+
+https://www.youtube.com/watch?v=O-Eh2r2_nZU
+
+
+
+5) Grafana Tutorials :
+
+https://grafana.com/tutorials/
+
+
+
+
+
+
+(30/03/2021)
+
+
+1) 
 
 
 
